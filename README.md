@@ -137,7 +137,7 @@ aviation-risk-analysis/
 
 ## 12. Author
 
-**Sharahbiil Mohamed**
+**Sharahbill Mohamed Abdi**
 Data Science Student | python Dev
 
 ---
