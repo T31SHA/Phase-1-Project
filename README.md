@@ -92,7 +92,7 @@ Based on the analysis:
 These conclusions are supported by quantitative analysis and visual evidence.
 
 
-Interactive Dashboard [https://public.tableau.com/authoring/AviationRiskAssessmentDashboard/Dashboard1#1]
+(Interactive Dashboard)[https://public.tableau.com/views/AviationRiskAssessmentDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 ---
 
 ## 9. Tools & Technologies
